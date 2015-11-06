@@ -10,7 +10,7 @@ USS.abbreviationFor = USS.ab = function(sn){
   return USS.abbreviations[ USS.names.indexOf(sn) ];
 };
 
-USS.stateNameFor = USS.sn = function(ab){
+USS.nameFor = USS.sn = function(ab){
   ab = ab.toUpperCase();
   return USS.names[ USS.abbreviations.indexOf(ab) ];
 };
