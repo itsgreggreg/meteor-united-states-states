@@ -1,6 +1,6 @@
 Package.describe({
   name: 'greggreg:united-states-states',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: "A US States list with some helpers for SimpleSchema",
   git: "https://github.com/itsgreggreg/meteor-united-states-states",

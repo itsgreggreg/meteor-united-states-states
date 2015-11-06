@@ -19,8 +19,8 @@
 `USS.nameFor("dc") === "District of Columbia";`<br>
 `USS.abbreviationFor("Washington DC") === undefined;`
 ### AutoForm Helper
-If you are using (AutoForm)[https://github.com/aldeed/meteor-autoform] and
-(SimpleSchema)[https://github.com/aldeed/meteor-simple-schema] you can pre-populate
+If you are using [AutoForm](https://github.com/aldeed/meteor-autoform) and
+[SimpleSchema](https://github.com/aldeed/meteor-simple-schema) you can pre-populate
 a select like so:
 ~~~Javascript
 LocationSchema = new SimpleSchema({
